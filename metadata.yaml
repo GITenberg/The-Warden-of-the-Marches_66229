@@ -1,0 +1,32 @@
+_repo: The-Warden-of-the-Marches_66229
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Pearse, Alfred
+    alias: Pearse, A.
+    birthdate: 1855
+    deathdate: 1933
+    gutenberg_agent_id: '9928'
+    url: http://www.gutenberg.org/2009/agents/9928
+    wikipedia: https://en.wikipedia.org/wiki/Alfred_Pearse
+creator:
+  author:
+    agent_name: Grier, Sydney C.
+    alias: Gregg, Hilda Caroline
+    birthdate: 1868
+    deathdate: 1933
+    gutenberg_agent_id: '26562'
+    url: http://www.gutenberg.org/2009/agents/26562
+    wikipedia: https://en.wikipedia.org/wiki/Hilda_Gregg
+description: ''
+gutenberg_issued: '2021-09-06'
+identifiers:
+  gutenberg: '66229'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Warden of the Marches
+url: http://www.gutenberg.org/ebooks/66229
