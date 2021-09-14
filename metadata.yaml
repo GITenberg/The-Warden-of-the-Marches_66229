@@ -1,5 +1,5 @@
 _repo: The-Warden-of-the-Marches_66229
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Pearse, Alfred
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '9928'
     url: http://www.gutenberg.org/2009/agents/9928
     wikipedia: https://en.wikipedia.org/wiki/Alfred_Pearse
+covers:
+- cover_type: archival
+  image_path: 66229-h/images/cover.jpg
 creator:
   author:
     agent_name: Grier, Sydney C.
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26562
     wikipedia: https://en.wikipedia.org/wiki/Hilda_Gregg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66229#The-Warden-of-the-Marches
 gutenberg_issued: '2021-09-06'
 identifiers:
   gutenberg: '66229'
